@@ -9,18 +9,17 @@
 * 会循环等待 *.html 输入
 * Ctrl+c 会退出脚本
 ## Eg
-* ➜  Desktop sh ./shell/testhtml/testhtml.sh 
-* -----------------
-* tips:Input:*.html will open this html in browser if exist
-*     Ctrl+c will exit this shell script
-* *Input new html file:c.html
-* **0:) ./kefu/chat/dist/partials/cschatroom/c.html
-* **1:) ./kefu/chat/src/partials/cschatroom/c.html
-* *Select number:1
-* ****Open:http://localhost:8080/kefu/chat/src/partials/cschatroom/c.html
-* *Input new html file:c.html
-* **0:) ./kefu/chat/dist/partials/cschatroom/c.html
-* **1:) ./kefu/chat/src/partials/cschatroom/c.html
-* *Select number:0
-* ****Open:http://localhost:8080/kefu/chat/dist/partials/cschatroom/c.html
-* *Input new html file:^C
+*     >Desktop sh ./shell/testhtml/testhtml.sh 
+*     >tips:Input:*.html will open this html in browser if exist
+*     >Ctrl+c will exit this shell script
+*     >Input new html file:c.html
+*     >0:) ./kefu/chat/dist/partials/cschatroom/c.html
+*     >1:) ./kefu/chat/src/partials/cschatroom/c.html
+*     >Select number:1
+*     >Open:http://localhost:8080/kefu/chat/src/partials/cschatroom/c.html
+*     >Input new html file:c.html
+*     >0:) ./kefu/chat/dist/partials/cschatroom/c.html
+*     >1:) ./kefu/chat/src/partials/cschatroom/c.html
+*     >Select number:0
+*     >Open:http://localhost:8080/kefu/chat/dist/partials/cschatroom/c.html
+*     >Input new html file:^C
