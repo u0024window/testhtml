@@ -1,7 +1,8 @@
 ## Intr
 * 为了方便在浏览器中测试项目下的html文件
 * 如果没有安装node会退出
-* 如果没有安装 npm包 会提示安装
+* 如果没有安装 npm包httpserver 会提示安装
+* httpserver 会启动一个静态服务
 ## Use
 * 执行脚本：sh testhtml.sh
 * 执行脚本后会 提示输入html文件 格式：*.html
