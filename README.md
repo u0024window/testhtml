@@ -3,6 +3,7 @@
 * 如果没有安装node会退出
 * 如果没有安装 npm包httpserver 会提示安装
 * httpserver 会启动一个静态服务
+* 如果 httpserver 是这个脚本启动的 退出时会关闭
 ## Use
 * 执行脚本：sh testhtml.sh
 * 执行脚本后会 提示输入html文件 格式：*.html
